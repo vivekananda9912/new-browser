@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "dotenv": "^17.4.2",
-    "firebase": "^12.18.0"
+    "firebase": "^13.0.0"
   }
 }
